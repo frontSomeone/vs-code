@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+button {
+    background-color: rgb(25, 0, 255);
+    padding: 10px;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-color: rgb(226, 86, 43);
+    margin: 0 auto;
+    display: block;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0 0 0;
+}
