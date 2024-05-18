@@ -11,12 +11,12 @@ a {
     font-size: 60px;
 }
 button {
-    background-color: aqua;
+    background-color: rgb(25, 0, 255);
     padding: 10px;
     border-radius: 8px;
     font-family: 'Courier New', Courier, monospace;
     border-style: solid;
-    border-color: blueviolet;
+    border-color: rgb(226, 86, 43);
     margin: 0 auto;
     display: block;
 }
